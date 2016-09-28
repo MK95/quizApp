@@ -1,0 +1,73 @@
+body{
+	font-family: 'Lato', sans-serif;
+}
+h1 {
+	text-align: center;
+	color:#000333;
+	font-size: 36pt;
+	font-weight: 700
+}
+
+div.appArea {
+	margin:80px auto auto auto;
+	width:60%;	
+
+}
+span.qnum {
+	float:right;
+	color:#dfdfdf;
+
+}
+img.pic {
+	float:left;
+	max-height:440px;
+	max-width:360px;
+	margin: 25px;
+	margin-right: 0;
+
+}
+
+.right{
+	float:right;
+	margin-left: 400px;
+	position: fixed;
+
+}
+
+ol.chooseOne {
+	float:right;
+	padding:15px;
+	list-style-type:none;
+	padding:20px;
+	margin:10px;
+
+}
+
+li {
+	margin-bottom:10px;
+}
+
+input.submit {
+	height:50px;
+	width:150px;
+	background-color:#000333;
+	color:#ffffff;
+	border: none;
+	border-radius: 5px;
+	
+}
+
+div.clear {
+	text-align:center;
+	clear: both;
+}
+
+input:hover {
+
+	background-color:teal;
+}
+
+
+
+
+
